@@ -1,11 +1,7 @@
-Um projeto simples para validar CPFs de forma rápida e eficaz.
-Valida o CPF de forma padrão utilizando o calculo dos 2 dígitos finais.
-Sobre o calculo: https://www.macoratti.net/alg_cpf.htm
+Validador de CPF desenvolvido em Python como parte do meu processo de aprendizado. O projeto valida o CPF de forma padrão, calculando e verificando os dois dígitos finais com base no algoritmo oficial.
 
-Este é um código que eu tenho feito a 2 meses, quando comecei a estudar sobre Python, 
-foi um desafio proposto no curso que faço atualmente, o projeto foi muito interessante
-de fazer, visto que pude por em pratica tudo que vinha aprendendo nas semanas. Ele utiliza
-de loops for (para acessar cada digito do cpf digitado) e condicionais (para comparar os numeros
-e calcula-los) com metodos e inputs para tratar os dados inseridos pelo usuario.
+O desenvolvimento foi um bom desafio prático, pois pude aplicar conceitos que vinha estudando, como loops for para percorrer cada dígito do CPF, condicionais para comparar e calcular os valores, e métodos de string para tratar os dados inseridos pelo usuário.
 
-É um projeto inicial, mas funcional, passivo de muitas mudanças e melhorias que serão feitas no futuro
+É um projeto inicial e funcional, passível de melhorias futuras.
+
+Referência do calculo utilizado no algoritmo: macoratti.net
