@@ -1,6 +1,3 @@
-import random
-
-
 cpf = input('Digite um CPF: ')
 numeros = [char for char in cpf if char.isdigit()]
 soma1 = 0
